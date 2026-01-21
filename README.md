@@ -23,7 +23,7 @@
 
 - 🤖 Interested in **AI, Machine Learning & Generative AI**
 - 🛠️ Focused on **real-world problem solving**
-- 🚀 Curious about scalable tech used in **product companies like Ola**
+- 🚀 Curious about scalable tech used in **product companies**
 
 ---
 

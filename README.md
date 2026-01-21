@@ -82,7 +82,7 @@
 
 ## 🤝 Let’s Connect  
 - 💼 **LinkedIn**: [Atharva Dave](https://www.linkedin.com/in/atharva-dave-297571395)  
-- 📧 **Email**: atharvaabhaydave@gmail.com  
+- 📧 **Email**: dave.atharvaofficial@gmail.com  
 
 ---
 

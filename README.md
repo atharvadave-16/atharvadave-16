@@ -31,10 +31,10 @@
 ---
 
 ## 📊 GitHub Stats  
+
 ![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvadave_16&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadave_16&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🤝 Connect With Me  

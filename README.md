@@ -54,6 +54,7 @@
 - **Machine Learning algorithms**
 - **Generative AI & LLMs**
 - Placement-oriented **DSA**
+- **java**
 
 ---
 

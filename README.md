@@ -40,6 +40,7 @@
 ## 🧑‍💻 Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,git,github,linux" />
+  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge" />
 </p>
 
 - 🐍 **Python** – scripting, ML foundations  
@@ -69,12 +70,7 @@
 
 ---
 
-## 🏆 GitHub Achievements  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge" />
-
-</p>
 
 ---
 

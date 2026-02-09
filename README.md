@@ -61,8 +61,9 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atharvadave-16&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atharvadave-16&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api?username=atharvadave-16&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=atharvadave-16&theme=tokyonight" />
+
 
 </p>
 
@@ -71,7 +72,8 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvadave-16&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge" />
+
 </p>
 
 ---
